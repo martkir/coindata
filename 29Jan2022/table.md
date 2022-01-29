@@ -1,4 +1,4 @@
-| coin_slug             |       price_usd |   market_cap_usd | predictions_median_price_february | predictions_vote_count_february |     pct_diff |
+| coin_slug             |       price_usd |   market_cap_usd | predictions_median_price_february |             vote_count_february |     pct_diff |
 |:----------------------|----------------:|-----------------:|----------------------------------:|--------------------------------:|-------------:|
 | ufo-gaming            |     9.76e-06    |      2.51523e+08 |                           0.01093 |                           18392 | 111888       |
 | safemoon              |     1.53e-06    |      2.77801e+08 |                           3.4e-05 |                            1528 |   2122.22    |
